@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<info>
+	<id>files_excel_reader</id>
+	<name>Excel Reader</name>
+	<description>Simple XLS viewer for owncloud 4. App is based on php-excel-reader.</description>
+	<licence>MIT</licence>
+	<require>4.00</require>
+	<author>Martin Fenne</author>
+        <types>
+                <filesystem/>
+        </types>
+        <shipped>true</shipped>
+        <default_enable/>
+</info>
